@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ipt1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="schema.xsd">
+   <section2A>
+      <student>
+         <id>22-12345</id>
+         <name>John Michael</name>
+         <grade>85.5</grade>
+      </student>
+      <student>
+         <id>22-23456</id>
+         <name>Albert Jr.</name>
+         <grade>92.0</grade>
+      </student>
+      <student>
+         <id>22-34567</id>
+         <name>Ryan Laurence</name>
+         <grade>85.5</grade>
+      </student>
+      <student>
+         <id>22-45678</id>
+         <name>Dylan Jay</name>
+         <grade>92.0</grade>
+      </student>
+   </section2A>
+   <section2B>
+      <student>
+         <id>22-56789</id>
+         <name>Andriane Ace</name>
+         <grade>78.3</grade>
+      </student>
+      <student>
+         <id>22-67890</id>
+         <name>Jasper</name>
+         <grade>78.3</grade>
+      </student>
+      <student>
+         <id>22-78901</id>
+         <name>Karl</name>
+         <grade>88.7</grade>
+      </student>
+      <student>
+         <id>22-89012</id>
+         <name>Pablito</name>
+         <grade>92.0</grade>
+      </student>
+   </section2B>
+   <section2C>
+      <student>
+         <id>22-90123</id>
+         <name>Frossy Lie</name>
+         <grade>90.2</grade>
+      </student>
+      <student>
+         <id>23-54321</id>
+         <name>Rose-Ann</name>
+         <grade>89.9</grade>
+      </student>
+      <student>
+         <id>23-65432</id>
+         <name>Melissa</name>
+         <grade>88.2</grade>
+      </student>
+      <student>
+         <id>23-76543</id>
+         <name>Reynold</name>
+         <grade>87.9</grade>
+      </student>
+   </section2C>
+</ipt1>
